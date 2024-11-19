@@ -1,0 +1,10 @@
+:root{
+    --background-color: #002D62;
+    --secondary-color: #FF9F1C;
+}
+
+body{
+    background-color: var(--background-color);
+    color: var(--secondary-color);
+    font-family: Tahoma, Verdana, sans-serif;;
+}
