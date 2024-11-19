@@ -19,9 +19,26 @@ body{
     align-items: center;
 }
 
+nav{
+    position: fixed;
+    width: 100vw;
+    padding: 1rem 5rem;
+    background-color: var(--section-color);
+    display: flex;
+    justify-content: space-between;
+}
+.nav-buttons{
+    gap: 2rem;
+}
+nav a{
+    color: var(--secondary-color);
+    text-decoration: none;
+}
+
 section{
     width: 90%;
     max-width: 1000px;
+    margin-top: 100px;
     background-color: var(--section-color);
     padding: 2rem;
 }
@@ -46,7 +63,7 @@ hr{
 .intro-container{
     gap: 40px;
 }
-.home .texts-div{
+#home .texts-div{
     gap: 10px;    /* remove inheritance gap */
     justify-content: center;
 }   
