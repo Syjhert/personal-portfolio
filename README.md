@@ -1,7 +1,9 @@
-# [Personal Portfolio](https://syjhert.github.io/Personal-Portfolio/)
+# [Personal Portfolio](https://jorashjonathanrobillos.vercel.app/)
 This is a simple personal portfolio project featuring a home section and a navbar. 
 Additional features will be added soon through branch merging to avoid breaking the
 active website with unfinished progress.
+
+- I will be trying to make a React version of this with better features and colors.
 
 # Features
 - A clean and responsive home section to welcome and introduce guests to the developer.
