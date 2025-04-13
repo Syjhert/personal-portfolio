@@ -1,12 +1,36 @@
-# React + Vite
+# [Personal Portfolio](https://jorashjonathanrobillos.vercel.app/)
+This is a simple personal portfolio project featuring a home section and a navbar. 
+Additional features will be added soon through branch merging to avoid breaking the
+active website with unfinished progress.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+- A clean and responsive home section to welcome and introduce guests to the developer.
+- A functional navbar with links to sections (placeholder links for now).
+- Toggle between light and dark themes for better user experience
 
-Currently, two official plugins are available:
+# Technologies Used
+- **HTML**: For the structure of the website.
+- **React**: For building reusable components and managing the UI.
+**Tailwind CSS**: For styling, including responsive design.
+**Git**: For version control, branching, merging, and potential collaboration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Setup Instructions
+**Prerequisites**
+  Ensure you have the following installed:
+  - Git
+  - A web browser
+  - Optional: A text editor (e.g., VS Code)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Steps to Run the Project**
+1. Clone the repository:<br>
+```
+git clone https://github.com/yourusername/portfolio.git
+```
+3. Navigate to the project directory:<br>
+```
+cd portfolio
+```
+5. Open the index.html file in your browser:<br>
+```
+open index.html
+```
