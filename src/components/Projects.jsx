@@ -85,7 +85,7 @@ export const Projects = () => {
         </div>
 
         {/* Project 4: GitJob */}
-      <div className="flex flex-col items-center border border-border dark:border-border-dark p-10 rounded-2xl shadow-lg mb-8 bg-bg dark:bg-bg-dark">
+      <div className="flex flex-col items-center border-3 border-border dark:border-border-dark p-10 rounded-2xl shadow-lg mb-8 bg-bg dark:bg-bg-dark">
         <div className="flex items-center gap-8 mb-6">
           <h1 className="text-2xl font-semibold text-secondary">GitJob</h1>
           <a
@@ -112,7 +112,7 @@ export const Projects = () => {
       </div>
 
       {/* Project 5: Athena */}
-      <div className="flex flex-col items-center border border-border dark:border-border-dark p-10 rounded-2xl shadow-lg mb-8 bg-bg dark:bg-bg-dark">
+      <div className="flex flex-col items-center border-3 border-border dark:border-border-dark p-10 rounded-2xl shadow-lg mb-8 bg-bg dark:bg-bg-dark">
         <div className="flex items-center gap-8 mb-6">
           <h1 className="text-2xl font-semibold text-secondary">Athena</h1>
           <a
@@ -138,7 +138,7 @@ export const Projects = () => {
       </div>
 
       {/* Project 6: CelesteClone */}
-      <div className="flex flex-col items-center border border-border dark:border-border-dark p-10 rounded-2xl shadow-lg mb-8 bg-bg dark:bg-bg-dark">
+      <div className="flex flex-col items-center border-3 border-border dark:border-border-dark p-10 rounded-2xl shadow-lg mb-8 bg-bg dark:bg-bg-dark">
         <div className="flex items-center gap-8 mb-6">
           <h1 className="text-2xl font-semibold text-secondary">
             CelesteClone
